@@ -1,3 +1,6 @@
+# Announcement :loudspeaker: 
+This repository is transferred from [gdm-SynseneHealth](https://github.com/draysontechnologies/QuickLayout) to Huma organisation as part of change in asset ownership 
+
 # QuickLayout
 
 [![Platform](https://img.shields.io/cocoapods/p/QuickLayout.svg?style=flat)](http://cocoapods.org/pods/QuickLayout)
